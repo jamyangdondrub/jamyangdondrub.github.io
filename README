@@ -1,0 +1,9 @@
+How-to:
+
+1. Edit index.md
+2. make build
+3. git push
+    1. git add -A
+    2. git commit -m "update"
+    3. git push
+4. visit: https://jamyangdondrub.github.io and refresh
