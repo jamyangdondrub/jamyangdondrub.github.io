@@ -1,13 +1,17 @@
 
 # Introduction
 
+My name is Jamyang Dondrub, a native Tibetan in Amdo, Tibet.
+
+
 
 # Eduation
 
-- 3123232- 3232 : University, degree
+- Qinghai Normal University Computer Science College from 2018 to present.
 
 
 # Carear
 
 
-- 2000 - 20000 : somethingkkk
+- Engaged in Tibetan text processing, natural language processing for Tibetan medicine.
+
