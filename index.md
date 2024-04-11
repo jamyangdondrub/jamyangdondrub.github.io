@@ -15,3 +15,4 @@ My name is Jamyang Dondrub, a native Tibetan in Amdo, Tibet.
 
 - Engaged in Tibetan text processing, natural language processing for Tibetan medicine.
 
+
